@@ -436,10 +436,9 @@ public class PhonebookApp {
 
 
 
-            System.exit(1);
+            System.exit(0);
 
 }
-
 
 
         try{ /* This creates the phonebook instance  */
