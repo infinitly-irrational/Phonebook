@@ -1,2 +1,2 @@
 # Phonebook
-This is the final project for a second semester Java class. The purpose of this program is to provide a file with names, (one or more) phone numbers, and the program will read in the data to be stored in a phonebook.
+This is the final project for a second semester Java class. The purpose of this program is to provide a file with names, (one or more) phone numbers, and the program will read in the data to be stored in a phonebook. "Phonebook.text" is a sample file of how a file that this program reads should be formatted: last name, first name, how many phone numbers each person has, type of number, and number.
